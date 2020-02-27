@@ -13,8 +13,8 @@ The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
 
 ### Tech stack
- Language: TypeScript
- Framework: React
- UI Framework: Material-UI
- Store: React-Context
- HTTP Client: Axios
+ `Language`: TypeScript <br/>
+ `Framework`: React <br/>
+ `UI Framework`: Material-UI <br/>
+ `Store`: React-Context <br/>
+ `HTTP Client`: Axios <br/>
